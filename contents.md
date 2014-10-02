@@ -66,6 +66,8 @@ title: Table of Contents
 
 ## Form ##
 
+[Essentials of Musical Form] (essentialsOFForm)  
+
 **Thematic Structure in the Classical Style**
 
 [Introduction to Thematic Structure in the Classical Style.](thematicStructureInTheClassicalStyle.html)   
