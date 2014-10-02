@@ -41,6 +41,8 @@ Accidentals are used to indicate when a pitch has been raised or lowered. They a
 - When you lower a note that is already flat by a semitone, you add a double flat. 
 - When you raise a note that is already sharp by a semitone, you add a double sharp.
 
+The effect of an accidental ends at the next bar line.
+
 The example below shows the symbols for flat, natural, sharp, double sharp, and double flat, respectively.
 
 <img src ="Graphics/accidentals.png" width="50%" height="50%">
